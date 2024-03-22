@@ -1,6 +1,6 @@
 # ISawWhereYouParkedLastSummer
 
-This API allows you to check whether a 30-minute free parking session has started for a given license plate number using waitress.
+This API allows you to check whether a 30-minute free parking session has started for a given license plate number using waitress. Old version
 
 ## Requirements
 

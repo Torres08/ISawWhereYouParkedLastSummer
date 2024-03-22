@@ -1,6 +1,6 @@
 # ISawWhereYouParkedLastSummer
 
-This is a simple REST API for starting a 30-minute free parking session for a given license plate.
+This is a simple REST API for starting a 30-minute free parking session for a given license plate. Basic folder is an old version of the API.
 
 ## Requirements
 
